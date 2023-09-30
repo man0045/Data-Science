@@ -1,0 +1,139 @@
+INFO:root:log this line of execution
+INFO:root:this is my print
+WARNING:root: the name is mannu cahurasiya
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:log this line of execution
+INFO:root:this is my print
+WARNING:root: the name is mannu cahurasiya
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:log this line of execution
+INFO:root:this is my print
+WARNING:root: the name is mannu cahurasiya
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:log this line of execution
+INFO:root:this is my print
+WARNING:root: the name is mannu cahurasiya
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical2
+INFO:root:log this line of execution
+INFO:root:this is my print
+WARNING:root: the name is mannu cahurasiya
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical2
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical2
+INFO:root:log this line of execution
+INFO:root:this is my print
+WARNING:root: the name is mannu cahurasiya
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical2
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical2
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:i am inside if statement and o am trying to check list type
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:i am inside if statement and o am trying to check list type
+INFO:root:i am in another for loop for list inside list element
+INFO:root:i am inside if statement
+INFO:root:i am in another for loop for list inside list element
+INFO:root:i am inside if statement
+INFO:root:i am in another for loop for list inside list element
+INFO:root:i am inside if statement
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is i
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:i am inside if statement and o am trying to check list type[2, 3, 4]
+INFO:root:i am in another for loop for list inside list element2
+INFO:root:i am inside if statement
+INFO:root:i am in another for loop for list inside list element3
+INFO:root:i am inside if statement
+INFO:root:i am in another for loop for list inside list element4
+INFO:root:i am inside if statement
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:log this line of execution
+INFO:root:this is my print
+WARNING:root: the name is mannu cahurasiya
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical
+INFO:root:this is my info logging
+ERROR:root:this is my error msg
+CRITICAL:root:this is my critical2
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:i am inside if statement and o am trying to check list type[2, 3, 4]
+INFO:root:i am in another for loop for list inside list element2
+INFO:root:i am inside if statement
+INFO:root:i am in another for loop for list inside list element3
+INFO:root:i am inside if statement
+INFO:root:i am in another for loop for list inside list element4
+INFO:root:i am inside if statement
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:i am inside if statement and o am trying to check list type[2, 3, 4]
+INFO:root:i am in another for loop for list inside list element2
+INFO:root:i am inside if statement
+INFO:root:i am in another for loop for list inside list element3
+INFO:root:i am inside if statement
+INFO:root:i am in another for loop for list inside list element4
+INFO:root:i am inside if statement
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:we are iterating through our list and our liocal var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+INFO:root:my final result for int is [1, 2, 3, 34, 4, 2, 3, 4] and str is ['sudh', 'kumar']
